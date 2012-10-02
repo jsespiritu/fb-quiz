@@ -1,0 +1,124 @@
+body {
+	background-color: #ffffff;
+	color:#666666;
+	font-family:Arial,Helv,sans-serif;
+	font-size:11px;
+	margin:0;
+	padding:0;
+}
+
+h3 {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-top: 12px;
+	padding-left: 13px;
+	font-size:12px;
+	color: #fff;
+	background: url(/assets/images/rightheader.gif) no-repeat top left;
+	height: 20px;
+}
+
+a:link,a:visited {
+	color: #ccc; 
+	font-weight: 
+	bold; text-decoration:none;
+}
+
+a:hover {
+	color: #fff;
+	text-decoration:underline;
+}
+
+#container {
+	width: 750px;
+	margin: 5px auto;
+	background-color: #fff;
+	color: #333;
+	line-height: 130%;
+}
+
+.question_container {
+	margin-left: 135px;
+	margin-right: 240px;
+	max-width: 34em;
+	background: url(/assets/images/content.gif) top left;
+	text-align:justify;
+}
+
+.content_title {
+	position: absolute;
+	padding-top: 15px;
+	padding-left: 15px;
+	font-size:14px;
+	margin-bottom: 1px;
+	font-weight:bold;
+	width: 400px;
+	color: #FFF;
+	background: url(/assets/images/header.gif) no-repeat top left;
+	height: 21px;
+}
+
+.content_text{
+	width: 340px;
+}
+
+#content_title a, #content_title a:visited {
+	color: #DEF0FE;
+}
+
+
+.text {
+	padding: 40px 15px 20px 15px;
+	color: #FFF;
+	background: url(/assets/images/footer.gif) no-repeat left bottom;
+}
+
+#message{
+	margin-left: 145px;
+	margin-right: 240px;
+	max-width: 34em;
+	text-align:justify;
+	font-size:14px;
+	color:#F03D25;
+}
+
+#gen_container{
+	margin-left: 145px;
+	margin-right: 240px;
+	max-width: 34em;
+	text-align:center;
+}
+
+.message_container {
+	margin-left: 135px;
+	margin-right: 240px;
+	max-width: 34em;
+	background: url(/assets/images/content_orange.gif) top left;
+	text-align:justify;
+}
+.gen_header {
+	position: absolute;
+	padding-top: 15px;
+	padding-left: 15px;
+	font-size:14px;
+	margin-bottom: 1px;
+	font-weight:bold;
+	width: 400px;
+	color: #FFF;
+	background: url(/assets/images/header_orange.gif) no-repeat top left;
+	height: 21px;
+}
+
+.text_orange {
+	padding: 40px 15px 5px 15px;
+	color: #FFF;
+	font-size:24px;
+	line-height:100%;
+	background: url(/assets/images/content_orange.gif) no-repeat left bottom;
+}
+
+.text_footer {
+	padding: 40px 15px 20px 15px;
+	color: #FFF;
+	background: url(/assets/images/footer_orange.gif) no-repeat left bottom;
+}
